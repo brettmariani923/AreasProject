@@ -1,0 +1,14 @@
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\AreasProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\AreasProject.AssemblyInfoInputs.cache
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\AreasProject.AssemblyInfo.cs
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\AreasProject.csproj.CoreCompileInputs.cache
+C:\Users\brett\source\repos\AreasProject\bin\Debug\net8.0\AreasProject.exe
+C:\Users\brett\source\repos\AreasProject\bin\Debug\net8.0\AreasProject.deps.json
+C:\Users\brett\source\repos\AreasProject\bin\Debug\net8.0\AreasProject.runtimeconfig.json
+C:\Users\brett\source\repos\AreasProject\bin\Debug\net8.0\AreasProject.dll
+C:\Users\brett\source\repos\AreasProject\bin\Debug\net8.0\AreasProject.pdb
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\AreasProject.dll
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\refint\AreasProject.dll
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\AreasProject.pdb
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\AreasProject.genruntimeconfig.cache
+C:\Users\brett\source\repos\AreasProject\obj\Debug\net8.0\ref\AreasProject.dll
