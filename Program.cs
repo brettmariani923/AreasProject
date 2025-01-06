@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-public class AreasProject
+public class Program
 { //Creating methods to find the area for each given shape, I'm doing this
   //so that when the input is recieved it can go directly into the
   //equation
